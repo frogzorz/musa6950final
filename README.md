@@ -6,6 +6,8 @@
 
 This project investigates the spatial relationship between urban greenness and firearm assaults in Philadelphia using artificial intelligence (AI) techniques. Firearm violence is a leading cause of injury and death in the city, and understanding environmental correlates like green space can inform urban planning and violence prevention strategies. By leveraging high-resolution NAIP satellite imagery and point-level incident data, we apply both traditional machine learning and deep learning models to predict firearm assault locations based on NDVI greenness values.
 
+To run this project, download this repository and follow the instructions in the Jupyter notebook (ndvi_gsw_analysis.ipynb). The notebook contains all necessary code, data processing steps, and model training procedures.
+
 ## Data Sources
 
 - **Firearm Assault Data:** Geocoded point locations of fatal and nonfatal shootings in Philadelphia. Data includes spatial coordinates and incident classification. (Source: Philadelphia Police Department via OpenDataPhilly and Nick Hand's [Mapping Philadelphia's Gun Violence](https://www.nickhand.dev/philly-gun-violence-map/) project.)
