@@ -9,7 +9,7 @@ This project investigates the spatial relationship between urban greenness and f
 
 - **Firearm Assault Data:** Geocoded point locations of fatal and nonfatal shootings in Philadelphia. Data includes spatial coordinates and incident classification. (Source: Philadelphia Police Department via OpenDataPhilly and Nick Hand's [Mapping Philadelphia's Gun Violence](https://www.nickhand.dev/philly-gun-violence-map/) project.)
 
-- **NAIP Imagery:** 4-band aerial imagery (RGB + Near-Infrared) obtained from the National Agriculture Imagery Program. Used to compute NDVI at high spatial resolution. Must be downloaded from 
+- **NAIP Imagery:** 4-band aerial imagery (RGB + Near-Infrared) obtained from the National Agriculture Imagery Program. Used to compute NDVI at high spatial resolution. Must be downloaded from [this link provided by Professor Xiaojiang Li](https://utilitiesfiles.s3.us-east-1.amazonaws.com/penn-class/ai-urban-sustainability/data/naip-philly.tif).
 
 - **Control Points:** Randomly sampled background locations across the city, used for model training and comparison.
 
