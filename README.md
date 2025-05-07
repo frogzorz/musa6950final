@@ -1,5 +1,6 @@
 # Green space and violence: 
-# Using machine learning and deep learning to assess the relationship between local NDVI values and firearm assaults in Philadelphia
+### Using machine learning and deep learning to assess the relationship between local NDVI values and firearm assaults in Philadelphia
+#### A final project for MUSA 6950 by Jamie Song, MPH
 -----------------------------------------------------------------
 ## Project Overview
 
